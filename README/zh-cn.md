@@ -1,4 +1,4 @@
-<h1 align="center">ClearCozyIslandLogs</h1>
+<h1 align="center">Clear Cozy Island Logs</h1>
 <h4 align="center">自动删除 舒舒服服小岛时光 的日志</h4>
 
 <p align="center">

@@ -1,4 +1,4 @@
-<h1 align="center">ClearCozyIslandLogs</h1>
+<h1 align="center">Clear Cozy Island Logs</h1>
 <h4 align="center">Automatically remove Cozy Island logs</h4>
 
 <p align="center">
