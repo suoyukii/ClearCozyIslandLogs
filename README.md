@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/English-lightgray?style=for-the-badge"/>
   <a href="README/zh-cn.md">
-    <img src="https://img.shields.io/badge/简体中文-00B4AB?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/简体中文-1e90ff?style=for-the-badge"/>
   </a>
 </p>
 
