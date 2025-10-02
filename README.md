@@ -6,7 +6,7 @@
     <img src="http://img.shields.io/badge/License-MIT-1e90ff?style=for-the-badge"/>
   </a>
   <a href="https://vlang.io/">
-    <img src="http://img.shields.io/badge/V-0.4.11-1e90ff?style=for-the-badge"/>
+    <img src="http://img.shields.io/badge/V-0.4.12-1e90ff?style=for-the-badge"/>
   </a>
 </p>
 
